@@ -1,0 +1,79 @@
+// Choreo version 1
+actor "!Target1"
+{
+  channel "audio"
+  {
+    event speak "npc_citizen.imhurt02"
+    {
+      time 0.174765 1.033904
+      param "npc_citizen.imhurt02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "look at"
+  {
+  }
+  channel "move to "
+  {
+  }
+  channel "face to"
+  {
+  }
+  channel "sequence"
+  {
+  }
+  channel "postures"
+  {
+  }
+  channel "gestures"
+  {
+    event flexanimation "sad"
+    {
+      time 0.101695 1.203390
+      param ""
+      flexanimations samples_use_time defaultcurvetype=curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+      {
+        "inner_raiser" combo 
+        {
+          0.0478 1.0000
+          0.8261 1.0000
+        }
+        {
+        }
+        "corner_depressor" combo 
+        {
+          0.0130 1.0000
+        }
+        {
+        }
+        "bite" 
+        {
+          0.0913 0.1900
+          0.1391 0.0500
+          0.7783 0.1900
+        }
+      }
+    }
+  }
+  channel "trigger"
+  {
+  }
+  channel "expression"
+  {
+  }
+}
+
+mapname "maps\klab_actormarks.bsp"
+scalesettings
+{
+  "CChoreoView" "118"
+  "ExpressionTool" "46"
+  "RampTool" "60"
+  "GestureTool" "50"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

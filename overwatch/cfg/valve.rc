@@ -1,0 +1,29 @@
+// OVERWATCH VALVE.RC
+// $LastChangedDate: 2012-03-25 01:16:40 -0400 (Sun, 25 Mar 2012) $
+
+
+// // Misc. Settings
+
+// Stuff Command Line Statements
+stuffcmds
+
+// Load Base Configuration
+//exec default.cfg
+
+// Setup Custom Controller
+exec joystick.cfg
+
+// Load User Script File (If Present)
+exec autoexec.cfg
+exec userconfig.cfg
+
+// Load Random Menu Background
+sv_unlockedchapters "99"
+
+// Disable 'WAIT' (Prevents Many Exploitive Scripts)
+sv_allow_wait_command 0
+
+// Commands for SourceTV
+tv_enable 0
+tv_maxclients 10
+tv_name "Overwatch SourceTV"

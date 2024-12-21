@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Welcome to Overwatch! Redirecting...</title>
+<meta http-equiv="REFRESH" content="0;url=http://redmatter.ca/games/overwatch/game_info">
+</head>
+<body bgcolor="#000000" text="#FFFFFF">
+<a href="http://redmatter.ca/games/overwatch/game_info">Click here if not automatically redirected...</a>
+</body>
+</html>

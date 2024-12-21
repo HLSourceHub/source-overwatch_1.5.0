@@ -1,0 +1,9 @@
+<ow_breach>
+{
+	material	overviews/ow_breach	// texture file
+	pos_x		-5720			// X coordinate
+	pos_y		4658			// Y coordinate
+	scale		7.00			// scale used when taking the screenshot
+	rotate		0			// map was rotated in an image editor
+	zoom		1.0			// optimal zoom factor if map is shown in full size
+}

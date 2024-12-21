@@ -1,0 +1,54 @@
+body {
+	background-image: url(../img/bg.jpg);
+	background-color: #000;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+}
+
+a:link {
+	color: #0099FF;
+}
+a:visited {
+	color: #0099FF;
+}
+a:hover {
+	color: #23E2FF;
+}
+a:active {
+	color: #00CCFF;
+}
+
+.last-updated {
+	text-align: right;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-weight: bold;
+	font-style: italic;
+	color: #DDD;
+}
+
+.content {
+	text-align: justify;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #DDD;
+	line-height: 125%;
+}
+	.content-first {
+		padding-top: 8px;
+	}
+	.content-additional {
+		padding-top: 30px;
+	}
+	.content-last {
+		padding-top: 30px;
+		padding-bottom: 25px;
+	}
+
+.title {
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFF;
+}

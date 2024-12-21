@@ -1,0 +1,22 @@
+End-User License Agreement:
+
+PLEASE READ THE AGREEMENT CAREFULLY BECAUSE IT IS A LEGAL CONTRACT AND IMPOSES OBLIGATIONS ON YOU AS A USER OF OVERWATCH. BY CLICKING THE "ACCEPT" BUTTON, YOU ARE CONSENTING TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT CLICK THE "ACCEPT" BUTTON AND DO NOT INSTALL OR USE THIS SOFTWARE.
+
+
+  Intellectual Property Rights
+All Half-Life 2 assets included in this release are Copyright © 2012 Valve Corporation, all rights reserved.
+All original assets included in this release are protected by the copyright laws of Canada and international copyright treaties.
+
+
+  Disclaimer Of Warranties And Limitation Of Liability
+OVERWATCH IS SUPPLIED "AS IS" AND ALL USE IS AT YOUR OWN RISK. All warranties of any kind, either express or implied, including but not limited to implied warranties of fitness for a particular purpose, merchantability or non-infringement of proprietary rights are disclaimed. Neither this agreement nor any documentation furnished under it is intended to express or imply any warranty that the operation of Overwatch will be uninterrupted, timely, or error-free.
+
+UNDER NO CIRCUMSTANCES SHALL THE DEVELOPERS BE LIABLE TO ANY USER FOR DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES (EVEN IF THE DEVELOPERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), ARISING FROM OR RELATING TO THIS AGREEMENT, OVERWATCH, YOUR USE OR MISUSE OF OVERWATCH, OR ERRORS IN OVERWATCH.
+
+
+  Governing Law
+This Agreement shall be governed by and interpreted in accordance with the laws of Canada and the Province of Quebec. If a term or provision of this Agreement shall be declared invalid in a court of competent jurisdiction, such invalidity shall be limited solely to the specific term or provision invalidated, and the remainder of this Agreement shall remain in full force and effect, according to its terms.
+
+
+
+$LastChangedDate: 2012-05-24 19:45:26 -0400 (Thu, 24 May 2012) $

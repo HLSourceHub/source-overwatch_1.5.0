@@ -1,0 +1,33 @@
+"GameInfo"
+{
+	game		"Overwatch"
+	title		""
+	title2		""
+	gamelogo	1
+
+	icon		"ow"
+
+	type		multiplayer_only
+
+	nomodels	0
+	nohimodel	1
+	nocrosshair	1
+
+	developer_url	"http://redmatter.ca/games/overwatch/"
+	developer		"redMatter"
+	manual			"http://redmatter.ca/games/overwatch/guides"
+
+	FileSystem
+	{
+		SteamAppId			218
+		ToolsAppId			211
+		AdditionalContentId	320
+
+		SearchPaths
+		{
+			Game		|gameinfo_path|.
+			Game		|all_source_engine_paths|hl2mp
+			Game		|all_source_engine_paths|hl2
+		}
+	}
+}
